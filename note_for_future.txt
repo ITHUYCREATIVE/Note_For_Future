@@ -1,0 +1,79 @@
+placehold.it
+placepuppy.iy
+placekitten.com
+
+
+Ruby:
+MINSWAN: MATZ AND THE RUBY LANGUAGE
+The goal of Ruby is to make programmers happy. I started out to make a programming language that would make me happy, and as a side effect it’s made many, many programmers happy.
+I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language.
+-Yukihiro Matsumoto
+
+I was talking with my colleague about the possibility of an object-oriented scripting language. I knew Perl (Perl4, not Perl5), but I didn't like it really, because it had the smell of a toy language (it still has). The object-oriented language seemed very promising. I knew Python then. But I didn't like it, because I didn't think it was a true object-oriented language — OO features appeared to be add-on to the language. As a language maniac and OO fan for 15 years, I really wanted a genuine object-oriented, easy-to-use scripting language. I looked for but couldn't find one. So I decided to make it.
+
+The Ruby community is characterized by respect for one another and a love of programming. Rubyists have a saying: "Matz is nice, so we are nice", or MINSWAN. Matz made a nice language to please programmers. Matz is nice to programmers, so we are nice to each other. The Learn community takes this principle to heart. We respect one another and the hard work that we are doing to learn how to code. We support one another to overcome obstacles to our learning. When another Learner asks a question, we answer, if we can, respectfully and with a positive attitude and we don't judge or criticize each other or the work that we're doing. Learning to code, which you're doing here and will continue to do over the entire course of your programming life, is hard. We don't want to make it even harder on each other by failing to adhere to the MINSWAN principle. Remember, we are all on a journey to learn to love to code together.
+
+
+INTERPRETED VS COMPILED
+Depending on the programming language you're using, it will either be a compiled language or an interpreted language. Compiled programs will first be converted to machine code and then you will be able to run the program. Interpreted languages will be interpreted and converted to machine code at run time.
+RUNNING A RUBY PROGRAM
+
+ruby -v
+ruby some-program.rb
+
+ you can type `touch hello_world.rb` within your terminal, once you've navigated into this lab's directory with `cd` (note, however, that you won't see any output in Terminal with `touch`). If you have Sublime Text and the [Sublime Text symlink](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/) `subl` set up, you can also type `subl .` within this lab's directory to open the entire directory in Sublime (very useful).
+
+*******************************************************
+ How to Become a Coder in 6 Months: a Step-by-Step Action Plan
+ ******************************************************
+
+
+So you want to become a coder.
+
+In short, the fastest and easiest way to become a coder today is to focus on web development. In fact, you can become a well-rounded web coder in just 6 months, and this article outlines a month-by-month plan for how to do that. It’s a loose guide and the aim is to give you a general idea of what coding languages you might want to learn, and in what order.
+
+If you only read one page on this website, make it this one.
+
+Month 1: Make a Simple Website (HTML and CSS)
+
+Spend your first month learning HTML and CSS, the codes used to write websites. HTML and CSS are arguably the two easiest coding languages to learn. They’ll give you a gentle introduction to coding before you move on to bigger, more challenging material. Also, you don’t need to buy any special web design software or web hosting. All you need is your computer!
+
+Designing and building your own simple website is the best way to learn HTML and CSS. If you use training like Treehouse, you’ll be walked through this process. You can also research HTML and CSS on your own, but it will be hard. It’s kind of like having to first find the pieces of a jigsaw puzzle before you can assemble them.
+
+It should take about a month to get a good, solid HTML and CSS foundation. Then, you can move on to some real programming…
+
+Months 2 and 3: Front-End Development (JavaScript)
+
+JavaScript is a coding language that makes websites interactive. It’s a good language to learn for two reasons:
+
+it requires no installation
+you can use it to build upon your HTML and CSS website.
+JavaScript coding is sometimes called front-end development, because JavaScripts are run on a user’s computer. Conversely, back-end development refers to scripts run on a web server.
+
+If you use Treehouse, you’ll get the opportunity to enhance your walked-through HTML and CSS website with JavaScript. Then, when you feel you have a good grasp of the language, design and build your own web app with JavaScript. To do this, you will want to learn how to plan, design and build a coding project.
+
+JavaScript is an exciting language with many possibilities, and will go a long way towards you becoming a coder. Take two months to learn and start using it.
+
+Months 4 and 5: Back-End Development (PHP or Rails)
+
+The last piece of the web development puzzle is back-end development. If you can create a website and write both front-end and back-end scripts, you’ll be a well-rounded coder indeed.
+
+Many websites use back-end scripts to fetch data from databases, or to share content between multiple web pages. PHP is the most popular coding language for back-end development. In more recent times, Ruby on Rails has emerged as a bit of a competitor to PHP.
+
+Choose one of the two to learn and specialize in. Many coders find PHP is more beginner-friendly, while Rails has more of a learning curve. But the choice is up to you.
+
+If you use Treehouse, you’ll be walked through how to make a dynamic, interactive web application with either PHP or Rails. Then, create your own simple web application – like you did with JavaScript, but this time using PHP or Rails.
+
+Again, give yourself two months to learn and start using either PHP or Rails. If you want to learn both, give yourself at least two months for each one.
+
+Month 6: Build Credibility
+
+By your sixth month, you will know enough material to become a coder. Congratulations!
+
+However, you don’t have a university degree or any official certification. So if you want to land a job, you’ll need to prove that you know what you’re doing.
+
+There are two ways you can do this. The first option is to set up a personal portfolio website, and sell yourself by showcasing the websites and web applications you’ve created in your 6 months learning coding. The second option is to build a big-time web application – one that makes use of everything you’ve learnt, which you will deploy online for the world to see and use. This will take you more than a month, but it will be worth it.
+
+The final step is to go off job-hunting. You can search for coding jobs in your area, or alternatively, you can choose to be a self-employed coder, either as a freelancer or by starting a tech business.
+
+The possibilities are, as they say, endless. Good luck!
