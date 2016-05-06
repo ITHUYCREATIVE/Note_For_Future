@@ -22,3 +22,5 @@ then install packet control :
 https://packagecontrol.io/installation
 And then you can install snipnet like emmet on sublime .
 http://emmet.io/blog/sublime-text-3/
+Enjoy your sublime . 
+I will tell you about dot file to setup workspace environtment in next blog .see you.
