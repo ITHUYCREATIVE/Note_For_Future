@@ -1,0 +1,24 @@
+How to use terminal on linux-unix command:
+ls
+ls -a
+ls -al
+cd 
+cd ~
+nano filename : edit file
+touch filename : create new file 
+mkdir :
+rm -r forder
+
+how to install application on terminal:
+sudo apt-get install app_name
+sudo apt-cache search app_name
+sudo apt-get update
+sudo apt-get upgrade
+
+Install sublime text and get license key from this site:
+http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/
+
+then install packet control :
+https://packagecontrol.io/installation
+And then you can install snipnet like emmet on sublime .
+http://emmet.io/blog/sublime-text-3/
