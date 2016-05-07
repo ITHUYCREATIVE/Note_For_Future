@@ -1,0 +1,18 @@
+How to use git and github to remote your respority 
+
+git --version
+git config --global username
+git status
+
+If you added a file from the working tree:
+git add <file>
+git commit -m "commit message"
+git reset HEAD <file> to unstage.
+git push to publish your local commits.
+
+
+If you deleted file from the working tree or change located file :
+git add -u selected all change
+git commit -a -m "location change or file was deleted"
+git push 
+
