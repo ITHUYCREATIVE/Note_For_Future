@@ -1,0 +1,8 @@
+Source for responsive layout must to read
+
+http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design
+http://alistapart.com/article/responsive-web-design
+
+http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/
+
+https://www.smashingmagazine.com/2014/07/breakpoints-and-the-future-websites/
