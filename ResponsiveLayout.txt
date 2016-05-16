@@ -6,3 +6,12 @@ http://alistapart.com/article/responsive-web-design
 http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/
 
 https://www.smashingmagazine.com/2014/07/breakpoints-and-the-future-websites/
+
+
+flexbox resources
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+http://caniuse.com/#search=flexbox
+
