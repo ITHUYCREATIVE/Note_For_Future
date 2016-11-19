@@ -1,0 +1,24 @@
+ls
+
+    -a - lists all contents, including hidden files and directories
+    -l - lists all contents of a directory in long format
+    -t - order files and directories by the time they were last modified.
+
+
+pwd "print working directory".
+cd stands for "change directory".
+To move up one directory, use cd ... 
+mkdir command stands for "make directory"
+touch keyboard.txt
+The touch command creates a new file inside the working directory
+
+
+    pwd outputs the name of the current working directory.
+    ls lists all files and directories in the working directory.
+    cd switches you into the directory you specify.
+    mkdir creates a new directory in the working directory.
+    touch creates a new file inside the working directory.
+
+
+cp frida.txt lincoln.txt
+The cp command copies files or directories
